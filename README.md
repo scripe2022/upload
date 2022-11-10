@@ -1,4 +1,5 @@
 ## Usage
+curl https://raw.githubusercontent.com/scripe2022/upload/main/upload.sh -o upload.sh
 chmod +x upload.sh
 ./upload
 
